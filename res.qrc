@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image"/>
+    <qresource prefix="/">
+        <file>Images/bg.jpg</file>
+        <file>Images/min_press.bmp</file>
+        <file>Images/close.ico</file>
+        <file>Images/close_press.ico</file>
+        <file>Images/min.ico</file>
+        <file>Images/icon.png</file>
+    </qresource>
+</RCC>
