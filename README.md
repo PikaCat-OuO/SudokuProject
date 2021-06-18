@@ -13,9 +13,7 @@ Qt、C++
 下载发行版使用
 
 #### 参与贡献
-PikaCat
-YUAN
-Oulix
+PikaCat、YUAN、Oulix
 
 #### 特点
 多线程技术（防止运算数独时卡住界面）
