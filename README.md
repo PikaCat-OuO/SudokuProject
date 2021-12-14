@@ -13,7 +13,7 @@ Qt、C++
 下载发行版使用
 
 #### 参与贡献
-PikaCat、YUAN、Oulix
+PikaCat、guoyuanpeng、lhzds(https://github.com/lhzds)
 
 #### 特点
 多线程技术（防止运算数独时卡住界面）
